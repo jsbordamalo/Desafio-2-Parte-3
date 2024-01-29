@@ -1,0 +1,100 @@
+.html{
+    font-size: 18px;
+    line-height: 1.5;
+}
+
+body{
+    padding: 0px;
+    margin: 0px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
+}
+
+.header{
+    text-align: center;
+}
+
+h1{
+    letter-spacing: 10px;
+    color: #c25898;
+}
+
+.header .img-hotels{
+    width: 250px;
+    height: 200px;
+}
+
+.section h2{
+    color: #c25898;
+    text-align: left;
+    margin-top: 10px;
+    font-size: 22px;
+    margin: 10px;
+}
+
+.section .article-pop{
+    color: #4884cb;
+    text-align: justify-all;
+    margin-top: 10px;
+    font-size: 16px;
+    margin: 20px;
+}
+
+.section .img-pop{
+    width: 450px;
+    height: 300px;
+    float: right;
+}
+
+.section2 h2{
+    color: #c25898;
+    text-align: left;
+    margin-top: 10px;
+    font-size: 22px;
+    margin: 10px;
+}
+
+.section2 .article-caribean{
+    color: #4884cb;
+    text-align: justify-all;
+    margin-top: 10px;
+    font-size: 16px;
+    margin: 20px;
+}
+
+.section2 .img-caribean{
+    width: 450px;
+    height: 300px;
+    float: left;
+}
+
+.section3 h2{
+    color: #c25898;
+    text-align: left;
+    margin-top: 10px;
+    font-size: 22px;
+    margin: 10px;
+}
+
+.section3 .article-animal{
+    color: #4884cb;
+    text-align: justify-all;
+    margin-top: 10px;
+    font-size: 14px;
+    margin: 20px;
+}
+
+.section3 .img-animal{
+    width: 450px;
+    height: 300px;
+    float: right;
+}
+
+.footer{
+    width: all;
+    height: 400px;
+   background-image: url(img/mickey-minnie.png);
+   background-position: center center;
+   background-repeat: no-repeat;
+   background-size: cover;
+   padding: 35px;
+}
